@@ -1,5 +1,5 @@
 {
-    "name": "cdev/drupal7-framework",
+    "name": "cdev/framework-drupal7",
     "description": "Drupal7 Framework plugin for cdev",
     "type": "cdev-plugin",
     "license": "MIT",
