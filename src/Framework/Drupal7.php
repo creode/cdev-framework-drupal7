@@ -1,6 +1,6 @@
 <?php
 
-namespace Drupal7Framework\Framework\Drupal7;
+namespace Creode\Drupal7\Framework\Drupal7;
 
 use Creode\Framework\Framework;
 
