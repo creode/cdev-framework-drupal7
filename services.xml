@@ -6,7 +6,7 @@
     <services>
 
         <service id="environment.framework.drupal7"
-            class="Creode\Framework\Drupal7\Drupal7">
+            class="Cdev\Drupal7\Framework\Drupal7">
         </service>
         
     </services>
