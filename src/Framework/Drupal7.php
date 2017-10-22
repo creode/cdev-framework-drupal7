@@ -1,6 +1,6 @@
 <?php
 
-namespace Creode\Drupal7\Framework\Drupal7;
+namespace Cdev\Drupal7\Framework;
 
 use Creode\Framework\Framework;
 
